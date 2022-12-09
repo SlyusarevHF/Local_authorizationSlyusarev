@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">local_authorizationSlyusarev</string>
+    <string name="user">Пользователь:</string>
+    <string name="password">Пароль:</string>
+    <string name="login_name">введите имя</string>
+    <string name="login_pass">введите пароль</string>
+    <string name="login">войти</string>
+    <string name="auth">Авторизация</string>
+    <string name="accept">Авторизация</string>
+</resources>
